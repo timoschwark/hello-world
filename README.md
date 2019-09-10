@@ -1,4 +1,4 @@
 # hello-world
-This is my description!
+Git Repository = Timo Schwark
 
 Hey, dies hier wurde von [schwark_tim] erstellt.
